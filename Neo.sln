@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neo", "Neo\Neo.csproj", "{A7A984D8-91D4-48F2-9F73-F5FC5057D155}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neo.Sample", "Neo.Sample\Neo.Sample.csproj", "{6394C6BF-8F25-442C-A995-936449CE5A42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7A984D8-91D4-48F2-9F73-F5FC5057D155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A984D8-91D4-48F2-9F73-F5FC5057D155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A984D8-91D4-48F2-9F73-F5FC5057D155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A984D8-91D4-48F2-9F73-F5FC5057D155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6394C6BF-8F25-442C-A995-936449CE5A42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6394C6BF-8F25-442C-A995-936449CE5A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6394C6BF-8F25-442C-A995-936449CE5A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6394C6BF-8F25-442C-A995-936449CE5A42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76655E4A-7646-4ECE-96B1-C0DCFD8695D6}
+	EndGlobalSection
+EndGlobal
